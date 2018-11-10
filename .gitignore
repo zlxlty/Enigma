@@ -29,7 +29,6 @@
 *.dylib
 
 # Executables
-*.exe
 *.out
 *.app
 *.i*86
@@ -41,6 +40,11 @@
 *.su
 *.idb
 *.pdb
+
+#Dev
+*.dev
+*.layout
+*.win
 
 # Kernel Module Compile Results
 *.mod*
